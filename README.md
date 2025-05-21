@@ -73,12 +73,6 @@ Visualização clara do status de cada moto (disponível, reservada, em manuten�
 Estatísticas em tempo real sobre a ocupação do pátio
 Demonstração da viabilidade técnica da solução proposta
 
-🔮 Próximos Passos
-Para uma implementação real, os próximos passos incluiriam:
-Integração com sistemas de gestão existentes da Mottu
-Implementação de hardware RFID real (tags e leitores)
-Desenvolvimento de aplicativo móvel para acesso às informações
-Implementação de análise preditiva para otimização de recursos
 
 👥 Contribuições
 Este projeto foi desenvolvido como parte do Challenge 2025 - 1º Semestre. As principais contribuições incluem:
